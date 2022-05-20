@@ -7,10 +7,19 @@ Features Added in 2.1:
  -auto ticket
  -multichannel support
 
-Features in progress:
+Features Added in 3.2:
  -!gamble bot
  -configs
- -!freetickets command
+ -new ui
+ -better autoticket
+ 
+ Features in Progress:
+ -!freetickets
+ -stopwatch/timer
+ -improvments to ui
+ -maybe run out of a exe or something
+ -!points info
+ -a look a multiple accounts
 
 I hope you enjoy! :)
 
