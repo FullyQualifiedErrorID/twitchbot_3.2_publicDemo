@@ -1,0 +1,5 @@
+{
+    "channel" : ["enter the same channels here that are your config","in this format"],
+    "username" : "Enter your twitch username",
+    "password" : "Enter your twitch oauth pass: https://twitchapps.com/tmi/"
+}

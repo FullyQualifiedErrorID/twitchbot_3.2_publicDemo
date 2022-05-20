@@ -1,0 +1,14 @@
+ {
+    "Channel 1": {
+        "raffleCommand": "!join",
+         "joinGiveawayCommand": "!giveaway",
+         "ENTER THE COMMANDS YOU WANT": "enter"
+     },
+     "Channel 2": {
+          "raffleCommand": "!enter",
+          "joinGiveawayCommand": "!giving"
+      },
+      "You get the point": {
+          
+      }
+}
