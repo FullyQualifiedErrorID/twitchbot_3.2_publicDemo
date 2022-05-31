@@ -19,7 +19,7 @@ Features Added in 3.2:
  -improvments to ui
  -maybe run out of a exe or something
  -!points info
- -a look a multiple accounts
+ -a look at multiple accounts
 
 I hope you enjoy! :)
 
